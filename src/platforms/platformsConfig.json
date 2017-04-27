@@ -3,8 +3,8 @@
         "hostos": ["darwin"],
         "parser_file": "../cordova/metadata/ios_parser",
         "handler_file": "../plugman/platforms/ios",
-        "url": "https://github.com/judteam/judpack-iOS.git?",
-        "version": "^4.0.5",
+        "url": "https://github.com/vkiding/judpack-ios.git?",
+        "version": "latest",
         "apiCompatibleSince": "4.0.",
         "deprecated": false
 
@@ -13,8 +13,8 @@
     "android": {
         "parser_file": "../cordova/metadata/android_parser",
         "handler_file": "../plugman/platforms/android",
-        "url": "https://github.com/judteam/app-framework-android.git?",
-        "version": "^6.2.1",
+        "url": "https://github.com/vkiding/judpack-android.git?",
+        "version": "latest",
         "apiCompatibleSince": "5.0.0",
         "deprecated": false
     },
